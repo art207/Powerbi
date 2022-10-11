@@ -1,3 +1,5 @@
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+title: Anoop Portfolio
+description: Experienced Business Intelligence Developer implementing solutions for various business situations representing top Clients. Area of expertise in various BI products including SQL Server, SSIS, ADF, SSRS, SSAS, T-SQL, Power BI, Report Builder, Tableau
