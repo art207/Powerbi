@@ -1,6 +1,8 @@
 # Power BI Reports
 
 ## [Hotel Revenue](https://app.powerbi.com/view?r=eyJrIjoiZmE4N2Q0Y2ItMmE0Yi00YTBiLTg0ZjItOTA1N2YzYThkZDcxIiwidCI6ImJjMjQxODZjLTc0NzUtNGM2ZS05NThhLTg4MmMzYTZiOWIwYSIsImMiOjJ9)
+- **Calculations**
+![image](https://user-images.githubusercontent.com/114692351/195720241-e9eb6b72-7b02-4e67-b80b-d7b4ad26e921.png)
 - **Data Model**
 ![Hotel Revenue Datamodel.png](https://images.zenhubusercontent.com/6345b946a9dc402ad81927d2/8c188e20-56ba-43e4-ad3c-6ad44db9c38a)
 - **Report Screenshots**
@@ -9,5 +11,4 @@
 ## [Sales Analysis](https://app.powerbi.com/view?r=eyJrIjoiOWM1YTQ4NmQtOTExNC00ZTMwLWFjZjgtZjEwNWFiNmYwYmZhIiwidCI6ImJjMjQxODZjLTc0NzUtNGM2ZS05NThhLTg4MmMzYTZiOWIwYSIsImMiOjJ9)
 
 ## [Call Center Analysis](https://app.powerbi.com/view?r=eyJrIjoiNjc0OWY2MWEtOTU4OS00MTM4LThkNTgtZmEyM2VlNWRlM2IyIiwidCI6ImJjMjQxODZjLTc0NzUtNGM2ZS05NThhLTg4MmMzYTZiOWIwYSIsImMiOjJ9)
-
 
