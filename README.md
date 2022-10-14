@@ -34,3 +34,4 @@
 ## [Sales Analysis](https://app.powerbi.com/view?r=eyJrIjoiOWM1YTQ4NmQtOTExNC00ZTMwLWFjZjgtZjEwNWFiNmYwYmZhIiwidCI6ImJjMjQxODZjLTc0NzUtNGM2ZS05NThhLTg4MmMzYTZiOWIwYSIsImMiOjJ9)
 ## [Call Center Analysis](https://app.powerbi.com/view?r=eyJrIjoiNjc0OWY2MWEtOTU4OS00MTM4LThkNTgtZmEyM2VlNWRlM2IyIiwidCI6ImJjMjQxODZjLTc0NzUtNGM2ZS05NThhLTg4MmMzYTZiOWIwYSIsImMiOjJ9)
 
+## [Emergency Service Analysis](https://app.powerbi.com/view?r=eyJrIjoiMDFmNzY0OTgtMTM0NC00ODU1LThlY2YtNWM0ZGI0YzAyMjI4IiwidCI6ImJjMjQxODZjLTc0NzUtNGM2ZS05NThhLTg4MmMzYTZiOWIwYSIsImMiOjJ9)
