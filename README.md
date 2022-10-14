@@ -93,6 +93,48 @@
 
 ## [Executive Sales Report](https://app.powerbi.com/view?r=eyJrIjoiOWY2NDY1YmYtODkzMS00MzE1LWFlMjQtOGUxNzI1MzlmODRlIiwidCI6ImJjMjQxODZjLTc0NzUtNGM2ZS05NThhLTg4MmMzYTZiOWIwYSIsImMiOjJ9)
 
+<details>
+  <summary>Report Screenshots</summary>
+  
+  ![Executive Sales Report img1.png](https://images.zenhubusercontent.com/6345b946a9dc402ad81927d2/be2a3f0c-3f81-4ecb-a480-555dad503446)![Executive Sales Report img2.png](https://images.zenhubusercontent.com/6345b946a9dc402ad81927d2/985e4b43-cf76-44ab-bed4-2436ab8b8bcf)![Executive Sales Report img3.png](https://images.zenhubusercontent.com/6345b946a9dc402ad81927d2/aafccd70-6060-4d18-9148-1273b973eb4e)
+  
+</details>
+
+<details>
+  <summary>Data Model</summary>
+  
+![Executive Sales Report Data Model.png](https://images.zenhubusercontent.com/6345b946a9dc402ad81927d2/5fe4bcf0-23c3-4a33-ab86-d99c50c0b509)
+
+</details>
+
+<details>
+  <summary>Calculations</summary>
+  
+ | MEASURE_NAME               | EXPRESSION                                                                                                                       |
+|----------------------------|----------------------------------------------------------------------------------------------------------------------------------|
+| Total Sales                | SUMX( Sales , Sales[Unit Price] * Sales[Order Quantity] )                                                                        |
+| Total Quantity Sold        | SUM( Sales[Order Quantity] )                                                                                                     |
+| Total Products Bought      | DISTINCTCOUNT(Sales[Product Index])                                                                                              |
+| Total Costs                | SUMX( Sales , Sales[Unit Cost] * Sales[Order Quantity] )                                                                         |
+| Average Costs              | AVERAGEX( Sales , Sales[Unit Cost] * Sales[Order Quantity] )                                                                     |
+| Average Sales              | AVERAGEX( Sales , Sales[Unit Price] * Sales[Order Quantity] )                                                                    |
+| Total Profits              | [Total Sales] - [Total Costs]                                                                                                    |
+| Profit Margin              | DIVIDE( [Total Profits] , [Total Sales] , 0 )                                                                                    |
+| Total Transactions         | COUNTROWS( Sales )                                                                                                               |
+| Top 10 Cities by Profit    | CALCULATE( [Total Profits] ,         FILTER( 'Store Locations' ,                  'Store Locations'[Top N Cities] = "Top 10" ) ) |
+| Prev. Month Sales          | CALCULATE( [Total Sales] , DATEADD( Dates[Date] , -1 , MONTH ) )                                                                 |
+| Prev. Month Qty. Sold      | CALCULATE( [Total Quantity Sold] , DATEADD( Dates[Date] , -1 , MONTH ) )                                                         |
+| Sales Target               | [Prev. Month Sales] * 1.1                                                                                                        |
+| Quantity Sold Target       | [Prev. Month Qty. Sold] * 1.1                                                                                                    |
+| Avg. Retail Price          | AVERAGE( Sales[Unit Price] )                                                                                                     |
+| Adjusted Retail Price      | [Avg. Retail Price] * (1 + 'Price Adjustment (%)'[Price Adjustment (%) Value] )                                                  |
+| Adjusted Sales             | SUMX( Sales , [Adjusted Retail Price] * Sales[Order Quantity] )                                                                  |
+| Adjusted Profit            | [Adjusted Sales] - [Total Costs]                                                                                                 |
+| % of Total Sales           | DIVIDE( [Total Sales] ,          CALCULATE( [Total Sales] , ALL( Products[Product Name] ) ), 0 )                                 |
+| Price Adjustment (%) Value | SELECTEDVALUE('Price Adjustment (%)'[Price Adjustment (%)], 0)                                                                   |
+  
+ </details>
+
 ## [Purchase Order Analysis](https://app.powerbi.com/view?r=eyJrIjoiYWI1YWU4ZDMtZTEzZS00OTZlLTg0ZGYtNjg5NDdkOTcyYmMzIiwidCI6ImJjMjQxODZjLTc0NzUtNGM2ZS05NThhLTg4MmMzYTZiOWIwYSIsImMiOjJ9)
 
 <details>
