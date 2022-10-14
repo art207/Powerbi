@@ -19,6 +19,29 @@
 
 </details>
 
+<details>
+  <summary>Calculations</summary>
+  
+  | MEASURE_NAME                          | EXPRESSION                                                 |
+|---------------------------------------|------------------------------------------------------------|
+| Hospital Capacity                     | SUM ( dimHospital[Capacity] )                              |
+| No of Calls                           | COUNTROWS ( CallTimings )                                  |
+| Hospital Name                         | SELECTEDVALUE ( dimHospital[Hospital Name] )               |
+| Min Call Time                         | MIN (CallTimings[Length of Call (Mins)] )                  |
+| Max Call Time                         | MAX( (CallTimings[Length of Call (Mins)] ))                |
+| Average Dispatch Time (ADT)           | AVERAGE ( CallTimings[Average Dispatch Time] )             |
+| Min Date                              | FORMAT ( MIN ( DateTable[Date] ), "dd/mm/yyyy" )           |
+| Max Date                              | FORMAT ( MAX ( DateTable[Date] ), "dd/mm/yyyy" )           |
+| Female Calls                          | CALCULATE ( [No of Calls], dimPatient[Gender] = "Female" ) |
+| Male Calls                            | CALCULATE ( [No of Calls], dimPatient[Gender] = "Male" )   |
+| Average Ambulance Arrival Time (AAAT) | AVERAGE ( CallTimings[Average Ambulance Arrival Time] )    |
+| Average Hospital Arrival Time (AHAT)  | AVERAGE ( CallTimings[Average Hospital Arrival Time] )     |
+| Patient Handover Time (PHT)           | AVERAGE ( CallTimings[Average Hospital Handover Time] )    |
+| Average Handling Time (AHT)           | Average ( CallTimings[Length of Call (Mins)] )             |
+
+</details>
+
+
 ## [Hotel Revenue](https://app.powerbi.com/view?r=eyJrIjoiZmE4N2Q0Y2ItMmE0Yi00YTBiLTg0ZjItOTA1N2YzYThkZDcxIiwidCI6ImJjMjQxODZjLTc0NzUtNGM2ZS05NThhLTg4MmMzYTZiOWIwYSIsImMiOjJ9)
 
 <details>
