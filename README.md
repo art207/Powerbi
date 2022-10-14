@@ -1,4 +1,24 @@
 # Power BI Reports
+
+## [Emergency Service Analysis](https://app.powerbi.com/view?r=eyJrIjoiMDFmNzY0OTgtMTM0NC00ODU1LThlY2YtNWM0ZGI0YzAyMjI4IiwidCI6ImJjMjQxODZjLTc0NzUtNGM2ZS05NThhLTg4MmMzYTZiOWIwYSIsImMiOjJ9)
+
+<details>
+  <summary>Report Screenshots</summary>
+  
+![Emergeny Service Analysis Img1.png](https://images.zenhubusercontent.com/6345b946a9dc402ad81927d2/80b089d2-82b3-4289-9c43-0d5206752cea)
+![Emergeny Service Analysis Img2.png](https://images.zenhubusercontent.com/6345b946a9dc402ad81927d2/3964287a-082d-4e2b-a266-bea52254cb13)
+![Emergeny Service Analysis Img3.png](https://images.zenhubusercontent.com/6345b946a9dc402ad81927d2/966c197d-a20a-4535-88aa-9d6806291bab)
+![Emergeny Service Analysis Img4.png](https://images.zenhubusercontent.com/6345b946a9dc402ad81927d2/a661b4d3-ea44-4bfb-9301-a650f3741f30)
+
+</details>
+
+<details>
+  <summary>Data Model</summary>
+
+![Emergency Service Analysis data model.png](https://images.zenhubusercontent.com/6345b946a9dc402ad81927d2/feb5df30-4a97-4def-879e-6e6a4721b87a)
+
+</details>
+
 ## [Hotel Revenue](https://app.powerbi.com/view?r=eyJrIjoiZmE4N2Q0Y2ItMmE0Yi00YTBiLTg0ZjItOTA1N2YzYThkZDcxIiwidCI6ImJjMjQxODZjLTc0NzUtNGM2ZS05NThhLTg4MmMzYTZiOWIwYSIsImMiOjJ9)
 
 <details>
@@ -34,4 +54,4 @@
 ## [Sales Analysis](https://app.powerbi.com/view?r=eyJrIjoiOWM1YTQ4NmQtOTExNC00ZTMwLWFjZjgtZjEwNWFiNmYwYmZhIiwidCI6ImJjMjQxODZjLTc0NzUtNGM2ZS05NThhLTg4MmMzYTZiOWIwYSIsImMiOjJ9)
 ## [Call Center Analysis](https://app.powerbi.com/view?r=eyJrIjoiNjc0OWY2MWEtOTU4OS00MTM4LThkNTgtZmEyM2VlNWRlM2IyIiwidCI6ImJjMjQxODZjLTc0NzUtNGM2ZS05NThhLTg4MmMzYTZiOWIwYSIsImMiOjJ9)
 
-## [Emergency Service Analysis](https://app.powerbi.com/view?r=eyJrIjoiMDFmNzY0OTgtMTM0NC00ODU1LThlY2YtNWM0ZGI0YzAyMjI4IiwidCI6ImJjMjQxODZjLTc0NzUtNGM2ZS05NThhLTg4MmMzYTZiOWIwYSIsImMiOjJ9)
+
