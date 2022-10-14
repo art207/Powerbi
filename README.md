@@ -91,6 +91,8 @@
 
 </details>
 
+## [Executive Sales Report](https://app.powerbi.com/view?r=eyJrIjoiOWY2NDY1YmYtODkzMS00MzE1LWFlMjQtOGUxNzI1MzlmODRlIiwidCI6ImJjMjQxODZjLTc0NzUtNGM2ZS05NThhLTg4MmMzYTZiOWIwYSIsImMiOjJ9)
+
 ## [Purchase Order Analysis](https://app.powerbi.com/view?r=eyJrIjoiYWI1YWU4ZDMtZTEzZS00OTZlLTg0ZGYtNjg5NDdkOTcyYmMzIiwidCI6ImJjMjQxODZjLTc0NzUtNGM2ZS05NThhLTg4MmMzYTZiOWIwYSIsImMiOjJ9)
 
 <details>
