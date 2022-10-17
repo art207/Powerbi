@@ -135,6 +135,8 @@
   
  </details>
 
+## [Consultancy Time and Earnings Analysis](https://app.powerbi.com/view?r=eyJrIjoiMzA0ODRhOWYtYmEwYS00NjBmLWE2NDEtOWExZWU3MDgwZjhkIiwidCI6ImJjMjQxODZjLTc0NzUtNGM2ZS05NThhLTg4MmMzYTZiOWIwYSIsImMiOjJ9)
+
 ## [Purchase Order Analysis](https://app.powerbi.com/view?r=eyJrIjoiYWI1YWU4ZDMtZTEzZS00OTZlLTg0ZGYtNjg5NDdkOTcyYmMzIiwidCI6ImJjMjQxODZjLTc0NzUtNGM2ZS05NThhLTg4MmMzYTZiOWIwYSIsImMiOjJ9)
 
 <details>
