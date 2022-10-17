@@ -137,6 +137,20 @@
 
 ## [Consultancy Time and Earnings Analysis](https://app.powerbi.com/view?r=eyJrIjoiMzA0ODRhOWYtYmEwYS00NjBmLWE2NDEtOWExZWU3MDgwZjhkIiwidCI6ImJjMjQxODZjLTc0NzUtNGM2ZS05NThhLTg4MmMzYTZiOWIwYSIsImMiOjJ9)
 
+<details>
+  <summary>Report Screenshots</summary>
+  
+![Consultancy Time and Earnings Analysis img1.png](https://images.zenhubusercontent.com/6345b946a9dc402ad81927d2/10763351-8d2f-478d-92f5-14c824178d76)![Consultancy Time and Earnings Analysis img2.png](https://images.zenhubusercontent.com/6345b946a9dc402ad81927d2/a2fcb230-fa56-4cb9-89bb-4888502edc32)![Consultancy Time and Earnings Analysis img3.png](https://images.zenhubusercontent.com/6345b946a9dc402ad81927d2/f5ccc624-d3df-4cb9-b790-e69fba70778c)
+
+</details>
+
+<details>
+  <summary>Data Model</summary>
+  
+![Consultancy Time and Earnings Analysis Data Model.png](https://images.zenhubusercontent.com/6345b946a9dc402ad81927d2/725c58e1-e89f-4081-8d39-fd5137ecc2aa)
+
+</details>
+
 ## [Purchase Order Analysis](https://app.powerbi.com/view?r=eyJrIjoiYWI1YWU4ZDMtZTEzZS00OTZlLTg0ZGYtNjg5NDdkOTcyYmMzIiwidCI6ImJjMjQxODZjLTc0NzUtNGM2ZS05NThhLTg4MmMzYTZiOWIwYSIsImMiOjJ9)
 
 <details>
@@ -145,6 +159,7 @@
 ![Purchase Order Analysis img.png](https://images.zenhubusercontent.com/6345b946a9dc402ad81927d2/859fc663-1135-4c84-b983-4f8a70c2c2b3)
 
 </details>
+
 
 ## [Sales Analysis](https://app.powerbi.com/view?r=eyJrIjoiOWM1YTQ4NmQtOTExNC00ZTMwLWFjZjgtZjEwNWFiNmYwYmZhIiwidCI6ImJjMjQxODZjLTc0NzUtNGM2ZS05NThhLTg4MmMzYTZiOWIwYSIsImMiOjJ9)
 ## [Call Center Analysis](https://app.powerbi.com/view?r=eyJrIjoiNjc0OWY2MWEtOTU4OS00MTM4LThkNTgtZmEyM2VlNWRlM2IyIiwidCI6ImJjMjQxODZjLTc0NzUtNGM2ZS05NThhLTg4MmMzYTZiOWIwYSIsImMiOjJ9)
