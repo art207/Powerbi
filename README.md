@@ -3,7 +3,7 @@
 ## [Emergency Service Analysis](https://app.powerbi.com/view?r=eyJrIjoiMDFmNzY0OTgtMTM0NC00ODU1LThlY2YtNWM0ZGI0YzAyMjI4IiwidCI6ImJjMjQxODZjLTc0NzUtNGM2ZS05NThhLTg4MmMzYTZiOWIwYSIsImMiOjJ9)
 
 <details>
-  <summary>Report Screenshots</summary>
+  <summary>Report Snapshots</summary>
   
 ![Emergeny Service Analysis Img1.png](https://images.zenhubusercontent.com/6345b946a9dc402ad81927d2/80b089d2-82b3-4289-9c43-0d5206752cea)
 ![Emergeny Service Analysis Img2.png](https://images.zenhubusercontent.com/6345b946a9dc402ad81927d2/3964287a-082d-4e2b-a266-bea52254cb13)
@@ -45,7 +45,7 @@
 ## [Hotel Revenue](https://app.powerbi.com/view?r=eyJrIjoiZmE4N2Q0Y2ItMmE0Yi00YTBiLTg0ZjItOTA1N2YzYThkZDcxIiwidCI6ImJjMjQxODZjLTc0NzUtNGM2ZS05NThhLTg4MmMzYTZiOWIwYSIsImMiOjJ9)
 
 <details>
-  <summary>Report Screenshots</summary>
+  <summary>Report Snapshots</summary>
   
 ![Hotel Revenue img1.png](https://images.zenhubusercontent.com/6345b946a9dc402ad81927d2/4e885ccd-c36b-456e-b116-582950eefdb2)![Hotel Revenue img2.png](https://images.zenhubusercontent.com/6345b946a9dc402ad81927d2/c9228710-ed83-4b79-bb04-4514a0b8ccc4)![Hotel Revenue img3.png](https://images.zenhubusercontent.com/6345b946a9dc402ad81927d2/4e560ae1-f84b-45fd-95aa-ef000b3c7414)![Hotel Revenue img4.png](https://images.zenhubusercontent.com/6345b946a9dc402ad81927d2/37b84f44-d6e9-4d6c-98d4-d9a5a3fc6f75)  
 
@@ -94,7 +94,7 @@
 ## [Executive Sales Report](https://app.powerbi.com/view?r=eyJrIjoiOWY2NDY1YmYtODkzMS00MzE1LWFlMjQtOGUxNzI1MzlmODRlIiwidCI6ImJjMjQxODZjLTc0NzUtNGM2ZS05NThhLTg4MmMzYTZiOWIwYSIsImMiOjJ9)
 
 <details>
-  <summary>Report Screenshots</summary>
+  <summary>Report Snapshots</summary>
   
   ![Executive Sales Report img1.png](https://images.zenhubusercontent.com/6345b946a9dc402ad81927d2/be2a3f0c-3f81-4ecb-a480-555dad503446)![Executive Sales Report img2.png](https://images.zenhubusercontent.com/6345b946a9dc402ad81927d2/985e4b43-cf76-44ab-bed4-2436ab8b8bcf)![Executive Sales Report img3.png](https://images.zenhubusercontent.com/6345b946a9dc402ad81927d2/aafccd70-6060-4d18-9148-1273b973eb4e)
   
@@ -138,7 +138,7 @@
 ## [Consultancy Time and Earnings Analysis](https://app.powerbi.com/view?r=eyJrIjoiMzA0ODRhOWYtYmEwYS00NjBmLWE2NDEtOWExZWU3MDgwZjhkIiwidCI6ImJjMjQxODZjLTc0NzUtNGM2ZS05NThhLTg4MmMzYTZiOWIwYSIsImMiOjJ9)
 
 <details>
-  <summary>Report Screenshots</summary>
+  <summary>Report Snapshots</summary>
   
 ![Consultancy Time and Earnings Analysis img1.png](https://images.zenhubusercontent.com/6345b946a9dc402ad81927d2/10763351-8d2f-478d-92f5-14c824178d76)![Consultancy Time and Earnings Analysis img2.png](https://images.zenhubusercontent.com/6345b946a9dc402ad81927d2/a2fcb230-fa56-4cb9-89bb-4888502edc32)![Consultancy Time and Earnings Analysis img3.png](https://images.zenhubusercontent.com/6345b946a9dc402ad81927d2/f5ccc624-d3df-4cb9-b790-e69fba70778c)
 
@@ -200,7 +200,7 @@
 ## [Purchase Order Analysis](https://app.powerbi.com/view?r=eyJrIjoiYWI1YWU4ZDMtZTEzZS00OTZlLTg0ZGYtNjg5NDdkOTcyYmMzIiwidCI6ImJjMjQxODZjLTc0NzUtNGM2ZS05NThhLTg4MmMzYTZiOWIwYSIsImMiOjJ9)
 
 <details>
-  <summary>Report Screenshots</summary>
+  <summary>Report Snapshots</summary>
   
 ![Purchase Order Analysis img.png](https://images.zenhubusercontent.com/6345b946a9dc402ad81927d2/859fc663-1135-4c84-b983-4f8a70c2c2b3)
 
