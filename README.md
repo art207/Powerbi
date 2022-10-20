@@ -182,6 +182,20 @@ Analysis done through this dashboard
 
 ## [Consultancy Time and Earnings Analysis](https://app.powerbi.com/view?r=eyJrIjoiMzA0ODRhOWYtYmEwYS00NjBmLWE2NDEtOWExZWU3MDgwZjhkIiwidCI6ImJjMjQxODZjLTc0NzUtNGM2ZS05NThhLTg4MmMzYTZiOWIwYSIsImMiOjJ9)
 
+This is a completely random and anonymised data set
+
+Analysis done through this dashboard 
+
+* How many productive hours doyou work in a week?
+
+* How many should you be doing
+
+* How many hours am I doing on a particular project
+
+* How effective is the resource? How is it performing?
+
+* Utilization 
+
 <details>
   <summary>Report Snapshots</summary>
   
