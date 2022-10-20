@@ -2,6 +2,30 @@
 
 ## [Emergency Service Analysis](https://app.powerbi.com/view?r=eyJrIjoiMDFmNzY0OTgtMTM0NC00ODU1LThlY2YtNWM0ZGI0YzAyMjI4IiwidCI6ImJjMjQxODZjLTc0NzUtNGM2ZS05NThhLTg4MmMzYTZiOWIwYSIsImMiOjJ9)
 
+This is a completely random and anonymised data set
+
+Analysis done through this dashboard 
+
+* No of calls
+
+* Time between time of call and ambulance departure.
+
+* Time taken for ambulance to arrive to patient.
+
+* Time taken from patient house to hospital.
+
+* No of jobs between specific period i.e over lunch times 12:00-14:00
+
+* Does the despatch code affect the timings?
+
+* Does the call handler have any impact?
+
+* Do certain hospitals have issues in particular aspect
+
+* What does the data say based upon the ambulance station?
+
+* Does patient Sex affect handover times?
+
 <details>
   <summary>Report Snapshots</summary>
   
@@ -43,6 +67,16 @@
 
 
 ## [Hotel Revenue](https://app.powerbi.com/view?r=eyJrIjoiZmE4N2Q0Y2ItMmE0Yi00YTBiLTg0ZjItOTA1N2YzYThkZDcxIiwidCI6ImJjMjQxODZjLTc0NzUtNGM2ZS05NThhLTg4MmMzYTZiOWIwYSIsImMiOjJ9)
+
+This is a completely random and anonymised data set
+
+Analysis done through this dashboard 
+
+* Time analysis exploration (Seasonality, Festive periods, weekday vs weekend etc)
+
+* Agent’s performance, overview.
+
+* Other insights providing further information on Customers type (family with children, single or couples visitors) etc.
 
 <details>
   <summary>Report Snapshots</summary>
@@ -92,6 +126,17 @@
 </details>
 
 ## [Executive Sales Report](https://app.powerbi.com/view?r=eyJrIjoiOWY2NDY1YmYtODkzMS00MzE1LWFlMjQtOGUxNzI1MzlmODRlIiwidCI6ImJjMjQxODZjLTc0NzUtNGM2ZS05NThhLTg4MmMzYTZiOWIwYSIsImMiOjJ9)
+
+This is a completely random and anonymised data set
+
+Analysis done through this dashboard 
+
+* Sales trends
+* Cumulative Sales
+* 7 day Moving Average
+* Sales by Channel
+* Sales by Sales teams
+* Sales by Region and State
 
 <details>
   <summary>Report Snapshots</summary>
